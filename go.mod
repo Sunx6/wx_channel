@@ -6,7 +6,7 @@ toolchain go1.24.3
 
 require (
 	github.com/fatih/color v1.17.0
-	github.com/qtgolang/SunnyNet v1.3.6
+	github.com/qtgolang/SunnyNet v1.0.0
 )
 
 require (
